@@ -1,0 +1,1 @@
+//package me.melo.cloud.oauth;////import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;////public class T {////    public static void main(String[] args) {////        BCryptPasswordEncoder b = new BCryptPasswordEncoder();//        String encode = b.encode("123456");//        System.out.println("encode = " + encode);//    }//}

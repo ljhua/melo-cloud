@@ -1,0 +1,1 @@
+package me.melo.cloud.gateway;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;@SpringBootApplicationpublic class MeloGatewayApplication {    public static void main(String[] args) {        SpringApplication.run(MeloGatewayApplication.class, args);    }}

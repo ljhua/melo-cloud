@@ -1,0 +1,1 @@
+package me.melo.cloud.usercenter.controller;import org.springframework.web.bind.annotation.RequestMapping;import org.springframework.stereotype.Controller;/** * <p> * 可以给组织权限，在该组织下的所有用户都有此权限 前端控制器 * </p> * * @author ljhua * @since 2022-08-08 */@Controller@RequestMapping("/sysOrgRole")public class SysOrgRoleController {}

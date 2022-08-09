@@ -1,0 +1,1 @@
+server:  port: 8092spring:  profiles:    active: dev  application:    name: melo-usercenter  cloud:    nacos:      discovery:        server-addr: localhost:8849        namespace: public        username: nacos        password: nacos    sentinel:      transport:        dashboard: localhost:8080      eager: true

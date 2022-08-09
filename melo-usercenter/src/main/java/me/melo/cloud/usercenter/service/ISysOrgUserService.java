@@ -1,0 +1,1 @@
+package me.melo.cloud.usercenter.service;import me.melo.cloud.usercenter.entity.SysOrgUser;import com.baomidou.mybatisplus.extension.service.IService;/** * <p> * 机构用户表 服务类 * </p> * * @author ljhua * @since 2022-08-08 */public interface ISysOrgUserService extends IService<SysOrgUser> {}

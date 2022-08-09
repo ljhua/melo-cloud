@@ -1,0 +1,1 @@
+package me.melo.cloud.usercenter.service;import me.melo.cloud.usercenter.entity.SysDataPermissionUserOrg;import com.baomidou.mybatisplus.extension.service.IService;/** * <p> * 数据权限多部门 服务类 * </p> * * @author ljhua * @since 2022-08-08 */public interface ISysDataPermissionUserOrgService extends IService<SysDataPermissionUserOrg> {}

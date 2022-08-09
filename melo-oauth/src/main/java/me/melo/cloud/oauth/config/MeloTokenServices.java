@@ -1,0 +1,1 @@
+package me.melo.cloud.oauth.config;import org.springframework.security.oauth2.provider.token.DefaultTokenServices;public class MeloTokenServices extends DefaultTokenServices {}

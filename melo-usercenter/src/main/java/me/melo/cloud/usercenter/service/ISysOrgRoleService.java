@@ -1,0 +1,1 @@
+package me.melo.cloud.usercenter.service;import me.melo.cloud.usercenter.entity.SysOrgRole;import com.baomidou.mybatisplus.extension.service.IService;/** * <p> * 可以给组织权限，在该组织下的所有用户都有此权限 服务类 * </p> * * @author ljhua * @since 2022-08-08 */public interface ISysOrgRoleService extends IService<SysOrgRole> {}

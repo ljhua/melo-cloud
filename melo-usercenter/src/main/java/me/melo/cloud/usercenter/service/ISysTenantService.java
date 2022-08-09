@@ -1,0 +1,1 @@
+package me.melo.cloud.usercenter.service;import me.melo.cloud.usercenter.entity.SysTenant;import com.baomidou.mybatisplus.extension.service.IService;/** * <p> * 租户信息表 服务类 * </p> * * @author ljhua * @since 2022-08-08 */public interface ISysTenantService extends IService<SysTenant> {}

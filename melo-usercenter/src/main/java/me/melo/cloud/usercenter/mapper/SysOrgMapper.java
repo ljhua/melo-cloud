@@ -1,0 +1,1 @@
+package me.melo.cloud.usercenter.mapper;import me.melo.cloud.usercenter.entity.SysOrg;import com.baomidou.mybatisplus.core.mapper.BaseMapper;/** * <p> * 组织表 Mapper 接口 * </p> * * @author ljhua * @since 2022-08-08 */public interface SysOrgMapper extends BaseMapper<SysOrg> {}
